@@ -5,9 +5,9 @@ using namespace std;
 class Solution {
 public:
     string sortString(string s) {
-        vector<int> bucket(26);
-        for (auto &ch : s) {
-            bucket[ch - 'a']++;
+        int bucket[26] = {0};
+        for (int i = 0; i < s.size(); ++i) {
+            bucket[s[i] - 'a']++;
         }
         string ret;
         while (ret.length() < s.length()) {
