@@ -1,12 +1,13 @@
 #include <iostream>
-#include "leetcode_1370.cpp"
+#include "leetcode_164.cpp"
 
 using namespace std;
 int main(int argc, char *argv[]) {
     
     Solution test;
-    string s = test.sortString("aaabbbccc");
-    cout << s << endl;
+    vector<int> nums = {3, 6, 9, 1};
+    int ret = test.maximumGap(nums);
+    cout << ret << endl;
     
     return 0;
 }
