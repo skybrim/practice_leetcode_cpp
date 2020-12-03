@@ -1,13 +1,12 @@
 #include <iostream>
-#include "leetcode_164.cpp"
+#include "204.cpp"
 
 using namespace std;
 int main(int argc, char *argv[]) {
     
     Solution test;
-    vector<int> nums = {3, 6, 9, 1};
-    int ret = test.maximumGap(nums);
-    cout << ret << endl;
-    
+    int result = test.countPrimes(100);
+
+    cout << result << endl;
     return 0;
 }
