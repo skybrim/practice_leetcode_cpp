@@ -38,7 +38,7 @@ using namespace std;
 class Solution {
 public:
     string predictPartyVictory(string senate) {
-        int n = senate.size();
+        int n = (int)senate.size();
         queue<int> radiant, dire;
         for (int i = 0; i < n; ++i) {
             if (senate[i] == 'R') {
@@ -51,7 +51,7 @@ public:
             if (radiant.front() < dire.front()) {
                 radiant.push(radiant.front() + n);
             } else {
-                dire.push(dire.front() + i);
+                dire.push(dire.front() + n);
             }
             radiant.pop();
             dire.pop();
