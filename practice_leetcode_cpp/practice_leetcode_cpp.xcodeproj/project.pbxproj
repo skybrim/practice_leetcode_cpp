@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B85AFAB72584914F008F23E2 /* offer_03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFAB62584914F008F23E2 /* offer_03.cpp */; };
 		B85AFABA258491CF008F23E2 /* offer_04_240.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFAB9258491CF008F23E2 /* offer_04_240.cpp */; };
+		B85AFABE25849724008F23E2 /* offer_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFABD25849724008F23E2 /* offer_05.cpp */; };
 		B8BA99B625848B560087145C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8BA99B525848B560087145C /* main.cpp */; };
 		B8BA99C525848B720087145C /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8BA99BD25848B720087145C /* 1.cpp */; };
 		B8BA99C625848B720087145C /* 649.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8BA99BE25848B720087145C /* 649.cpp */; };
@@ -36,6 +37,7 @@
 /* Begin PBXFileReference section */
 		B85AFAB62584914F008F23E2 /* offer_03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_03.cpp; sourceTree = "<group>"; };
 		B85AFAB9258491CF008F23E2 /* offer_04_240.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_04_240.cpp; sourceTree = "<group>"; };
+		B85AFABD25849724008F23E2 /* offer_05.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_05.cpp; sourceTree = "<group>"; };
 		B8BA99B225848B560087145C /* practice_leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = practice_leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8BA99B525848B560087145C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B8BA99BD25848B720087145C /* 1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 			children = (
 				B85AFAB62584914F008F23E2 /* offer_03.cpp */,
 				B85AFAB9258491CF008F23E2 /* offer_04_240.cpp */,
+				B85AFABD25849724008F23E2 /* offer_05.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				B8BA99CB25848B720087145C /* 164.cpp in Sources */,
 				B8BA99C525848B720087145C /* 1.cpp in Sources */,
 				B8BA99C725848B720087145C /* 62.cpp in Sources */,
+				B85AFABE25849724008F23E2 /* offer_05.cpp in Sources */,
 				B8BA99CA25848B720087145C /* 204.cpp in Sources */,
 				B8BA99C825848B720087145C /* 1370.cpp in Sources */,
 			);
