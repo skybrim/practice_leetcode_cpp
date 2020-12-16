@@ -6,9 +6,13 @@
 //
 
 #include <iostream>
-
+#include "290.cpp"
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+    
+    Solution test = Solution();
+    cout << test.wordPattern("abba", "dog cat cat dog") << endl;
+    
     return 0;
 }
