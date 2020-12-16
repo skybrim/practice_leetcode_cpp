@@ -12,6 +12,7 @@
 		B85AFABE25849724008F23E2 /* offer_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFABD25849724008F23E2 /* offer_05.cpp */; };
 		B85F8D4B2585EED600AAD877 /* offer_06.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85F8D4A2585EED600AAD877 /* offer_06.cpp */; };
 		B85F8D4E2585EF7400AAD877 /* 217.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85F8D4D2585EF7400AAD877 /* 217.cpp */; };
+		B86F303C25899FBB0073528F /* offer_09.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B86F303B25899FBB0073528F /* offer_09.cpp */; };
 		B879040A2586F263000FED34 /* 49.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B87904092586F263000FED34 /* 49.cpp */; };
 		B8790412258769A0000FED34 /* offer_07_105.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8790411258769A0000FED34 /* offer_07_105.cpp */; };
 		B8BA99B625848B560087145C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8BA99B525848B560087145C /* main.cpp */; };
@@ -44,6 +45,7 @@
 		B85AFABD25849724008F23E2 /* offer_05.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_05.cpp; sourceTree = "<group>"; };
 		B85F8D4A2585EED600AAD877 /* offer_06.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_06.cpp; sourceTree = "<group>"; };
 		B85F8D4D2585EF7400AAD877 /* 217.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 217.cpp; sourceTree = "<group>"; };
+		B86F303B25899FBB0073528F /* offer_09.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_09.cpp; sourceTree = "<group>"; };
 		B87904092586F263000FED34 /* 49.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 49.cpp; sourceTree = "<group>"; };
 		B8790411258769A0000FED34 /* offer_07_105.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_07_105.cpp; sourceTree = "<group>"; };
 		B8BA99B225848B560087145C /* practice_leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = practice_leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -78,6 +80,7 @@
 				B85AFABD25849724008F23E2 /* offer_05.cpp */,
 				B85F8D4A2585EED600AAD877 /* offer_06.cpp */,
 				B8790411258769A0000FED34 /* offer_07_105.cpp */,
+				B86F303B25899FBB0073528F /* offer_09.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				B8BA99D025848B920087145C /* 912.cpp in Sources */,
 				B85AFAB72584914F008F23E2 /* offer_03.cpp in Sources */,
 				B8BA99CB25848B720087145C /* 164.cpp in Sources */,
+				B86F303C25899FBB0073528F /* offer_09.cpp in Sources */,
 				B8BA99C525848B720087145C /* 1.cpp in Sources */,
 				B8BA99C725848B720087145C /* 62.cpp in Sources */,
 				B85AFABE25849724008F23E2 /* offer_05.cpp in Sources */,
