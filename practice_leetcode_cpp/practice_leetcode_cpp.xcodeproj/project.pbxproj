@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B84960B12595854600601198 /* offer_14-I.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B84960B02595854600601198 /* offer_14-I.cpp */; };
 		B85AFAB72584914F008F23E2 /* offer_03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFAB62584914F008F23E2 /* offer_03.cpp */; };
 		B85AFABA258491CF008F23E2 /* offer_04_240.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFAB9258491CF008F23E2 /* offer_04_240.cpp */; };
 		B85AFABE25849724008F23E2 /* offer_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B85AFABD25849724008F23E2 /* offer_05.cpp */; };
@@ -46,6 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B84960B02595854600601198 /* offer_14-I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_14-I.cpp"; sourceTree = "<group>"; };
 		B85AFAB62584914F008F23E2 /* offer_03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_03.cpp; sourceTree = "<group>"; };
 		B85AFAB9258491CF008F23E2 /* offer_04_240.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_04_240.cpp; sourceTree = "<group>"; };
 		B85AFABD25849724008F23E2 /* offer_05.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_05.cpp; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				B8A31A12259197A8008A74B4 /* offer_11_154.cpp */,
 				B8608A2C2592DC1A0049C96F /* offer_12_79.cpp */,
 				B8608A30259428530049C96F /* offer_13.cpp */,
+				B84960B02595854600601198 /* offer_14-I.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				B86F30422589A8100073528F /* 290.cpp in Sources */,
 				B85F8D4B2585EED600AAD877 /* offer_06.cpp in Sources */,
 				B85AFABA258491CF008F23E2 /* offer_04_240.cpp in Sources */,
+				B84960B12595854600601198 /* offer_14-I.cpp in Sources */,
 				B8A31A13259197A8008A74B4 /* offer_11_154.cpp in Sources */,
 				B8A31A0F25903A30008A74B4 /* offer_10-II_70.cpp in Sources */,
 				B879040A2586F263000FED34 /* 49.cpp in Sources */,
