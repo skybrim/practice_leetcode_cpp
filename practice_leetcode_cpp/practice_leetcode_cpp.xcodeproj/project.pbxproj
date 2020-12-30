@@ -20,6 +20,7 @@
 		B86F30422589A8100073528F /* 290.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B86F30412589A8100073528F /* 290.cpp */; };
 		B879040A2586F263000FED34 /* 49.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B87904092586F263000FED34 /* 49.cpp */; };
 		B8790412258769A0000FED34 /* offer_07_105.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8790411258769A0000FED34 /* offer_07_105.cpp */; };
+		B88F34A8259C560B00AF5DEB /* offer_15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B88F34A7259C560B00AF5DEB /* offer_15.cpp */; };
 		B8A31A0F25903A30008A74B4 /* offer_10-II_70.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8A31A0E25903A30008A74B4 /* offer_10-II_70.cpp */; };
 		B8A31A13259197A8008A74B4 /* offer_11_154.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8A31A12259197A8008A74B4 /* offer_11_154.cpp */; };
 		B8AB7172259AC557004707A1 /* offer_14-II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8AB7171259AC557004707A1 /* offer_14-II.cpp */; };
@@ -61,6 +62,7 @@
 		B86F30412589A8100073528F /* 290.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 290.cpp; sourceTree = "<group>"; };
 		B87904092586F263000FED34 /* 49.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 49.cpp; sourceTree = "<group>"; };
 		B8790411258769A0000FED34 /* offer_07_105.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_07_105.cpp; sourceTree = "<group>"; };
+		B88F34A7259C560B00AF5DEB /* offer_15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_15.cpp; sourceTree = "<group>"; };
 		B8A31A0E25903A30008A74B4 /* offer_10-II_70.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_10-II_70.cpp"; sourceTree = "<group>"; };
 		B8A31A12259197A8008A74B4 /* offer_11_154.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_11_154.cpp; sourceTree = "<group>"; };
 		B8AB7171259AC557004707A1 /* offer_14-II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_14-II.cpp"; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				B8608A30259428530049C96F /* offer_13.cpp */,
 				B84960B02595854600601198 /* offer_14-I.cpp */,
 				B8AB7171259AC557004707A1 /* offer_14-II.cpp */,
+				B88F34A7259C560B00AF5DEB /* offer_15.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 			files = (
 				B8BA99C925848B720087145C /* 860.cpp in Sources */,
 				B8BA99C625848B720087145C /* 649.cpp in Sources */,
+				B88F34A8259C560B00AF5DEB /* offer_15.cpp in Sources */,
 				B8608A31259428530049C96F /* offer_13.cpp in Sources */,
 				B86F303F2589A2650073528F /* offer_10-I.cpp in Sources */,
 				B86F30422589A8100073528F /* 290.cpp in Sources */,
