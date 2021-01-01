@@ -34,7 +34,7 @@ public:
     double myPow(double x, int n) {
         double ret = 1.0;
         for (int i = n; i != 0; i /= 2, x *= x) {
-            if ((i & 1) == 1) {
+            if (i & 1) {
                 ret *= x;
             }
         }
