@@ -40,6 +40,7 @@
 		B8BA99D025848B920087145C /* 912.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8BA99CF25848B920087145C /* 912.cpp */; };
 		B8FB323325A3FFFF004B47A0 /* offer_21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FB323225A3FFFF004B47A0 /* offer_21.cpp */; };
 		B8FB323625A5636D004B47A0 /* offer_22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FB323525A5636D004B47A0 /* offer_22.cpp */; };
+		B8FB323925A6B28A004B47A0 /* offer_24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FB323825A6B28A004B47A0 /* offer_24.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -89,6 +90,7 @@
 		B8BA99CF25848B920087145C /* 912.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 912.cpp; sourceTree = "<group>"; };
 		B8FB323225A3FFFF004B47A0 /* offer_21.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_21.cpp; sourceTree = "<group>"; };
 		B8FB323525A5636D004B47A0 /* offer_22.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_22.cpp; sourceTree = "<group>"; };
+		B8FB323825A6B28A004B47A0 /* offer_24.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_24.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				B81EE09F25A2B7CE003B77EE /* offer_20.cpp */,
 				B8FB323225A3FFFF004B47A0 /* offer_21.cpp */,
 				B8FB323525A5636D004B47A0 /* offer_22.cpp */,
+				B8FB323825A6B28A004B47A0 /* offer_24.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				B86F303F2589A2650073528F /* offer_10-I.cpp in Sources */,
 				B86F30422589A8100073528F /* 290.cpp in Sources */,
 				B85F8D4B2585EED600AAD877 /* offer_06.cpp in Sources */,
+				B8FB323925A6B28A004B47A0 /* offer_24.cpp in Sources */,
 				B85AFABA258491CF008F23E2 /* offer_04_240.cpp in Sources */,
 				B84960B12595854600601198 /* offer_14-I.cpp in Sources */,
 				B8A31A13259197A8008A74B4 /* offer_11_154.cpp in Sources */,
