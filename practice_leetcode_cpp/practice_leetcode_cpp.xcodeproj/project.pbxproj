@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B81EE0A025A2B7CE003B77EE /* offer_20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B81EE09F25A2B7CE003B77EE /* offer_20.cpp */; };
+		B8236AEA25A7F57100E21256 /* offer_25.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8236AE925A7F57100E21256 /* offer_25.cpp */; };
 		B833EF18259D6BD600AFF448 /* offer_16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B833EF17259D6BD600AFF448 /* offer_16.cpp */; };
 		B833EF1C259EC2C400AFF448 /* offer_17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B833EF1B259EC2C400AFF448 /* offer_17.cpp */; };
 		B84960B12595854600601198 /* offer_14-I.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B84960B02595854600601198 /* offer_14-I.cpp */; };
@@ -57,6 +58,7 @@
 
 /* Begin PBXFileReference section */
 		B81EE09F25A2B7CE003B77EE /* offer_20.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_20.cpp; sourceTree = "<group>"; };
+		B8236AE925A7F57100E21256 /* offer_25.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_25.cpp; sourceTree = "<group>"; };
 		B833EF17259D6BD600AFF448 /* offer_16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_16.cpp; sourceTree = "<group>"; };
 		B833EF1B259EC2C400AFF448 /* offer_17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_17.cpp; sourceTree = "<group>"; };
 		B84960B02595854600601198 /* offer_14-I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_14-I.cpp"; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				B8FB323225A3FFFF004B47A0 /* offer_21.cpp */,
 				B8FB323525A5636D004B47A0 /* offer_22.cpp */,
 				B8FB323825A6B28A004B47A0 /* offer_24.cpp */,
+				B8236AE925A7F57100E21256 /* offer_25.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				B8BA99C525848B720087145C /* 1.cpp in Sources */,
 				B8BA99C725848B720087145C /* 62.cpp in Sources */,
 				B85AFABE25849724008F23E2 /* offer_05.cpp in Sources */,
+				B8236AEA25A7F57100E21256 /* offer_25.cpp in Sources */,
 				B85F8D4E2585EF7400AAD877 /* 217.cpp in Sources */,
 				B8AB7172259AC557004707A1 /* offer_14-II.cpp in Sources */,
 				B8BA99CA25848B720087145C /* 204.cpp in Sources */,
