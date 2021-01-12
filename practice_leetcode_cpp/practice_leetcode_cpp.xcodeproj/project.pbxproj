@@ -43,6 +43,7 @@
 		B8FB323325A3FFFF004B47A0 /* offer_21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FB323225A3FFFF004B47A0 /* offer_21.cpp */; };
 		B8FB323625A5636D004B47A0 /* offer_22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FB323525A5636D004B47A0 /* offer_22.cpp */; };
 		B8FB323925A6B28A004B47A0 /* offer_24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FB323825A6B28A004B47A0 /* offer_24.cpp */; };
+		B8FE521225AD3DBE00E67EFA /* offer_27.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8FE521125AD3DBE00E67EFA /* offer_27.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -95,6 +96,7 @@
 		B8FB323225A3FFFF004B47A0 /* offer_21.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_21.cpp; sourceTree = "<group>"; };
 		B8FB323525A5636D004B47A0 /* offer_22.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_22.cpp; sourceTree = "<group>"; };
 		B8FB323825A6B28A004B47A0 /* offer_24.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_24.cpp; sourceTree = "<group>"; };
+		B8FE521125AD3DBE00E67EFA /* offer_27.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_27.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 				B8FB323825A6B28A004B47A0 /* offer_24.cpp */,
 				B8236AE925A7F57100E21256 /* offer_25.cpp */,
 				B84085CA25A9572200EE8F89 /* offer_26.cpp */,
+				B8FE521125AD3DBE00E67EFA /* offer_27.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				B88F34A8259C560B00AF5DEB /* offer_15.cpp in Sources */,
 				B8608A31259428530049C96F /* offer_13.cpp in Sources */,
 				B86F303F2589A2650073528F /* offer_10-I.cpp in Sources */,
+				B8FE521225AD3DBE00E67EFA /* offer_27.cpp in Sources */,
 				B86F30422589A8100073528F /* 290.cpp in Sources */,
 				B85F8D4B2585EED600AAD877 /* offer_06.cpp in Sources */,
 				B8FB323925A6B28A004B47A0 /* offer_24.cpp in Sources */,
