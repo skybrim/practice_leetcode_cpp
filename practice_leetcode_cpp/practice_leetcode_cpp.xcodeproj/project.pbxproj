@@ -11,6 +11,7 @@
 		B8236AEA25A7F57100E21256 /* offer_25.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8236AE925A7F57100E21256 /* offer_25.cpp */; };
 		B833EF18259D6BD600AFF448 /* offer_16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B833EF17259D6BD600AFF448 /* offer_16.cpp */; };
 		B833EF1C259EC2C400AFF448 /* offer_17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B833EF1B259EC2C400AFF448 /* offer_17.cpp */; };
+		B835890225C25ADF000C0B16 /* offer_31.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B835890125C25ADF000C0B16 /* offer_31.cpp */; };
 		B84085CB25A9572200EE8F89 /* offer_26.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B84085CA25A9572200EE8F89 /* offer_26.cpp */; };
 		B84960B12595854600601198 /* offer_14-I.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B84960B02595854600601198 /* offer_14-I.cpp */; };
 		B8520EDC25AE900600148349 /* offer_28.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8520EDB25AE900600148349 /* offer_28.cpp */; };
@@ -66,6 +67,7 @@
 		B8236AE925A7F57100E21256 /* offer_25.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_25.cpp; sourceTree = "<group>"; };
 		B833EF17259D6BD600AFF448 /* offer_16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_16.cpp; sourceTree = "<group>"; };
 		B833EF1B259EC2C400AFF448 /* offer_17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_17.cpp; sourceTree = "<group>"; };
+		B835890125C25ADF000C0B16 /* offer_31.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_31.cpp; sourceTree = "<group>"; };
 		B84085CA25A9572200EE8F89 /* offer_26.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_26.cpp; sourceTree = "<group>"; };
 		B84960B02595854600601198 /* offer_14-I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_14-I.cpp"; sourceTree = "<group>"; };
 		B8520EDB25AE900600148349 /* offer_28.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_28.cpp; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				B8520EDB25AE900600148349 /* offer_28.cpp */,
 				B87C7F5825AFE1CE008445FF /* offer_29.cpp */,
 				B8B857DD25C100C90011462A /* offer_30.cpp */,
+				B835890125C25ADF000C0B16 /* offer_31.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				B879040A2586F263000FED34 /* 49.cpp in Sources */,
 				B8BA99B625848B560087145C /* main.cpp in Sources */,
 				B833EF1C259EC2C400AFF448 /* offer_17.cpp in Sources */,
+				B835890225C25ADF000C0B16 /* offer_31.cpp in Sources */,
 				B8FB323625A5636D004B47A0 /* offer_22.cpp in Sources */,
 				B8790412258769A0000FED34 /* offer_07_105.cpp in Sources */,
 				B8BA99CC25848B720087145C /* 118.cpp in Sources */,
