@@ -29,6 +29,7 @@
 		B86F303F2589A2650073528F /* offer_10-I.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B86F303E2589A2650073528F /* offer_10-I.cpp */; };
 		B86F30422589A8100073528F /* 290.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B86F30412589A8100073528F /* 290.cpp */; };
 		B874383225D162C0001FF836 /* offer_33.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B874383125D162C0001FF836 /* offer_33.cpp */; };
+		B875E85725D22A710041DFD2 /* offer_34.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B875E85625D22A710041DFD2 /* offer_34.cpp */; };
 		B879040A2586F263000FED34 /* 49.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B87904092586F263000FED34 /* 49.cpp */; };
 		B8790412258769A0000FED34 /* offer_07_105.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8790411258769A0000FED34 /* offer_07_105.cpp */; };
 		B87C7F5925AFE1CE008445FF /* offer_29.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B87C7F5825AFE1CE008445FF /* offer_29.cpp */; };
@@ -89,6 +90,7 @@
 		B86F303E2589A2650073528F /* offer_10-I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_10-I.cpp"; sourceTree = "<group>"; };
 		B86F30412589A8100073528F /* 290.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 290.cpp; sourceTree = "<group>"; };
 		B874383125D162C0001FF836 /* offer_33.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_33.cpp; sourceTree = "<group>"; };
+		B875E85625D22A710041DFD2 /* offer_34.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_34.cpp; sourceTree = "<group>"; };
 		B87904092586F263000FED34 /* 49.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 49.cpp; sourceTree = "<group>"; };
 		B8790411258769A0000FED34 /* offer_07_105.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_07_105.cpp; sourceTree = "<group>"; };
 		B87C7F5825AFE1CE008445FF /* offer_29.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_29.cpp; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				B8AFB04A25C7DFF8006B7DF6 /* offer_32-II.cpp */,
 				B816AA8E25CCE36000A2355A /* offer_32-III.cpp */,
 				B874383125D162C0001FF836 /* offer_33.cpp */,
+				B875E85625D22A710041DFD2 /* offer_34.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				B8AB7172259AC557004707A1 /* offer_14-II.cpp in Sources */,
 				B8BA99CA25848B720087145C /* 204.cpp in Sources */,
 				B8BA99C825848B720087145C /* 1370.cpp in Sources */,
+				B875E85725D22A710041DFD2 /* offer_34.cpp in Sources */,
 				B864DE9425A1C5AA004D3B6A /* offer_18.cpp in Sources */,
 				B816AA8F25CCE36000A2355A /* offer_32-III.cpp in Sources */,
 			);

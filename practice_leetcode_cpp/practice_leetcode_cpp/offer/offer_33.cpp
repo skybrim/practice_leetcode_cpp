@@ -29,7 +29,8 @@
      数组长度 <= 1000
  */
 #include <stdio.h>
-
+#include <vector>
+using namespace std;
 class Solution {
 public:
     bool verifyPostorder(vector<int>& postorder) {
