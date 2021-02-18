@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B8033ECA25DE16AF0055AF0F /* offer_35.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8033EC925DE16AF0055AF0F /* offer_35.cpp */; };
 		B816AA8F25CCE36000A2355A /* offer_32-III.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B816AA8E25CCE36000A2355A /* offer_32-III.cpp */; };
 		B81EE0A025A2B7CE003B77EE /* offer_20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B81EE09F25A2B7CE003B77EE /* offer_20.cpp */; };
 		B8236AEA25A7F57100E21256 /* offer_25.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8236AE925A7F57100E21256 /* offer_25.cpp */; };
@@ -68,6 +69,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B8033EC925DE16AF0055AF0F /* offer_35.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_35.cpp; sourceTree = "<group>"; };
 		B816AA8E25CCE36000A2355A /* offer_32-III.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "offer_32-III.cpp"; sourceTree = "<group>"; };
 		B81EE09F25A2B7CE003B77EE /* offer_20.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_20.cpp; sourceTree = "<group>"; };
 		B8236AE925A7F57100E21256 /* offer_25.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offer_25.cpp; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				B816AA8E25CCE36000A2355A /* offer_32-III.cpp */,
 				B874383125D162C0001FF836 /* offer_33.cpp */,
 				B875E85625D22A710041DFD2 /* offer_34.cpp */,
+				B8033EC925DE16AF0055AF0F /* offer_35.cpp */,
 			);
 			path = offer;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				B835892625C3A0EA000C0B16 /* offer_32-I.cpp in Sources */,
 				B8236AEA25A7F57100E21256 /* offer_25.cpp in Sources */,
 				B85F8D4E2585EF7400AAD877 /* 217.cpp in Sources */,
+				B8033ECA25DE16AF0055AF0F /* offer_35.cpp in Sources */,
 				B8AB7172259AC557004707A1 /* offer_14-II.cpp in Sources */,
 				B8BA99CA25848B720087145C /* 204.cpp in Sources */,
 				B8BA99C825848B720087145C /* 1370.cpp in Sources */,
